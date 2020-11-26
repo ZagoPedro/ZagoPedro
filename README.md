@@ -1,16 +1,14 @@
-:zap:
 ### Hi there, I'm ZagoPedro!
-:zap:
 
 ------------------------------------------------------------------------------------------
 
 ### PT-BR
 
-nome: Pedro H. Z. Costa
+• nome: Pedro H. Z. Costa
 
-idade: 20 anos
+• idade: 20 anos
 
-linguagens de programação: C, Java, JavaScript, Python
+• linguagens de programação: C, Java, JavaScript, Python
 
 :small_blue_diamond: cursando Ciência da Computação na Faculdade de Ciências e Tecnologia - UNESP
 
@@ -22,11 +20,11 @@ linguagens de programação: C, Java, JavaScript, Python
 
 ### EN-US
 
-name: Pedro H. Z. Costa
+• name: Pedro H. Z. Costa
 
-age: 20 y.o.
+• age: 20 y.o.
 
-programming languages: C, Java, JavaScript, Python
+• programming languages: C, Java, JavaScript, Python
 
 :small_blue_diamond: studying Computer Science in Faculdade de Ciências e Tecnologia - UNESP
 
