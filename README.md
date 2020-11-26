@@ -8,6 +8,8 @@
 
 • idade: 20 anos
 
+• e-mail: pedro_zago.costa@terra.com.br
+
 • linguagens de programação: C, Java, JavaScript, Python
 
 :small_blue_diamond: cursando Ciência da Computação na Faculdade de Ciências e Tecnologia - UNESP
@@ -23,6 +25,8 @@
 • name: Pedro H. Z. Costa
 
 • age: 20 y.o.
+
+• e-mail: pedro_zago.costa@terra.com.br
 
 • programming languages: C, Java, JavaScript, Python
 
