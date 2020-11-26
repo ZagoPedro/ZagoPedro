@@ -1,8 +1,10 @@
-:zap: ### Hi there, I'm ZagoPedro! :zap:
-
-PT-BR 
+:zap:
+### Hi there, I'm ZagoPedro!
+:zap:
 
 ------------------------------------------------------------------------------------------
+
+### PT-BR
 
 nome: Pedro H. Z. Costa
 
@@ -16,9 +18,9 @@ linguagens de programação: C, Java, JavaScript, Python
 
 :small_orange_diamond: trabalhando no departamento de Testes de Software na prefeitura de Presidente Prudente
 
-EN-US
-
 ------------------------------------------------------------------------------------------
+
+### EN-US
 
 name: Pedro H. Z. Costa
 
