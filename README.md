@@ -12,6 +12,8 @@
 
 • linguagens de programação: C, Java, JavaScript, Python
 
+• site: https://zagopedro.github.io/
+
 :small_blue_diamond: cursando Ciência da Computação na Faculdade de Ciências e Tecnologia - UNESP
 
 :small_orange_diamond: trabalhando na empresa júnior EJComp
@@ -29,6 +31,8 @@
 • e-mail: pedro_zago.costa@terra.com.br
 
 • programming languages: C, Java, JavaScript, Python
+
+• website: https://zagopedro.github.io/
 
 :small_blue_diamond: studying Computer Science in Faculdade de Ciências e Tecnologia - UNESP
 
