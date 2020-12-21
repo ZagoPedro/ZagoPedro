@@ -10,7 +10,7 @@
 
 • e-mail: pedro_zago.costa@terra.com.br
 
-• linguagens de programação: C, Java, JavaScript, Python
+• linguagens de programação: C, Java, JavaScript, Python, Git
 
 • site: https://zagopedro.github.io/react-site/
 
@@ -30,7 +30,7 @@
 
 • e-mail: pedro_zago.costa@terra.com.br
 
-• programming languages: C, Java, JavaScript, Python
+• programming languages: C, Java, JavaScript, Python, Git
 
 • website: https://zagopedro.github.io/react-site/
 
