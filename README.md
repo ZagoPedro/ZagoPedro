@@ -12,7 +12,7 @@
 
 • linguagens de programação: C, Java, JavaScript, Python
 
-• site: https://zagopedro.github.io/react-site/ (em teste)
+• site: https://zagopedro.github.io/react-site/
 
 :small_blue_diamond: cursando Ciência da Computação na Faculdade de Ciências e Tecnologia - UNESP
 
@@ -32,7 +32,7 @@
 
 • programming languages: C, Java, JavaScript, Python
 
-• website: https://zagopedro.github.io/react-site/ (being tested)
+• website: https://zagopedro.github.io/react-site/
 
 :small_blue_diamond: studying Computer Science in Faculdade de Ciências e Tecnologia - UNESP
 
