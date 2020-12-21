@@ -10,9 +10,11 @@
 
 • e-mail: pedro_zago.costa@terra.com.br
 
+• site: https://zagopedro.github.io/react-site/
+
 • linguagens de programação: C, Java, JavaScript, Python, Git
 
-• site: https://zagopedro.github.io/react-site/
+• ferramentas que tenho experiência: Visual Studio Code, Dev C++, Code Blocks IDE, Apache NetBeans IDE, Sublime Text 3, PyCharm, Git, GitHub
 
 :small_blue_diamond: cursando Ciência da Computação na Faculdade de Ciências e Tecnologia - UNESP
 
@@ -30,9 +32,11 @@
 
 • e-mail: pedro_zago.costa@terra.com.br
 
+• website: https://zagopedro.github.io/react-site/
+
 • programming languages: C, Java, JavaScript, Python, Git
 
-• website: https://zagopedro.github.io/react-site/
+• tools I have experience: Visual Studio Code, Dev C++, Code Blocks IDE, Apache NetBeans IDE, Sublime Text 3, PyCharm, Git, GitHub
 
 :small_blue_diamond: studying Computer Science in Faculdade de Ciências e Tecnologia - UNESP
 
