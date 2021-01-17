@@ -18,7 +18,7 @@
 
 :small_orange_diamond: trabalhando na empresa júnior EJComp
 
-:small_orange_diamond: trabalhando no departamento de Testes de Software na prefeitura de Presidente Prudente
+:small_orange_diamond: trabalhando no laboratório de Testes de Software da prefeitura de Presidente Prudente
 
 • linguagens de programação/programming languages:
 
@@ -42,6 +42,6 @@
 
 :small_orange_diamond: working in the company EJComp
 
-:small_orange_diamond: working in the Software Testing department of the city hall of Presidente Prudente
+:small_orange_diamond: working in the Software Testing laboratory of the city hall of Presidente Prudente
 
 ------------------------------------------------------------------------------------------
