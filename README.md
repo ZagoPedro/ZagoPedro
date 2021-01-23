@@ -12,7 +12,9 @@
 
 • site: https://zagopedro.github.io/react-site/
 
-• ferramentas que tenho experiência: Visual Studio Code, Dev C++, Code Blocks IDE, Apache NetBeans IDE, Sublime Text 3, PyCharm, Git, GitHub
+• LinkedIn: https://www.linkedin.com/in/pedro-henrique-zago-costa-7166711a7/
+
+• ferramentas que tenho experiência: Visual Studio Code, Dev C++, Code Blocks IDE, Apache NetBeans IDE, Eclipse IDE for Java Developers, Sublime Text 3, PyCharm, Git, GitHub
 
 :small_blue_diamond: cursando Ciência da Computação na Faculdade de Ciências e Tecnologia - UNESP
 
@@ -36,7 +38,9 @@
 
 • website: https://zagopedro.github.io/react-site/
 
-• tools I have experience: Visual Studio Code, Dev C++, Code Blocks IDE, Apache NetBeans IDE, Sublime Text 3, PyCharm, Git, GitHub
+• LinkedIn: https://www.linkedin.com/in/pedro-henrique-zago-costa-7166711a7/
+
+• tools I have experience: Visual Studio Code, Dev C++, Code Blocks IDE, Apache NetBeans IDE, Eclipse IDE for Java Developers, Sublime Text 3, PyCharm, Git, GitHub
 
 :small_blue_diamond: studying Computer Science in Faculdade de Ciências e Tecnologia - UNESP
 
