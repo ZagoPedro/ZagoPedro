@@ -20,7 +20,7 @@
 
 :small_blue_diamond: cursando Ciência da Computação na Faculdade de Ciências e Tecnologia - UNESP
 
-:small_orange_diamond: trabalhando na empresa júnior EJComp
+:small_orange_diamond: ex-membro da empresa júnior EJComp (01/04/2020 - 12/04/2021)
 
 :small_orange_diamond: trabalhando no laboratório de Testes de Software da prefeitura de Presidente Prudente
 
@@ -48,7 +48,7 @@
 
 :small_blue_diamond: studying Computer Science in Faculdade de Ciências e Tecnologia - UNESP
 
-:small_orange_diamond: working in the company EJComp
+:small_orange_diamond: former member of the company EJComp (04/01/2020 - 04/12/2021)
 
 :small_orange_diamond: working in the Software Testing laboratory of the city hall of Presidente Prudente
 
