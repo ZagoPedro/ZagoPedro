@@ -6,7 +6,7 @@
 
 • nome: Pedro H. Z. Costa
 
-• idade: 20 anos
+• idade: 21 anos
 
 • e-mail: pedro_zago.costa@terra.com.br
 
@@ -34,7 +34,7 @@
 
 • name: Pedro H. Z. Costa
 
-• age: 20 y.o.
+• age: 21 y.o.
 
 • e-mail: pedro_zago.costa@terra.com.br
 
