@@ -1,18 +1,24 @@
+------------------------------------------------------------------------------------------
+
 ### Hi there, I'm ZagoPedro!
 
+<div>
+  <a href="https://github.com/ZagoPedro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZagoPedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZagoPedro&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+------------------------------------------------------------------------------------------
+  
+<img src="image/Me.png" width="750">
+  
 ------------------------------------------------------------------------------------------
 
 ### PT-BR
-
+  
 • nome: Pedro H. Z. Costa
 
 • idade: 21 anos
-
-• e-mail: pedro_zago.costa@terra.com.br
-
-• site: https://zagopedro.github.io/react-site/
-
-• LinkedIn: https://www.linkedin.com/in/pedro-henrique-zago-costa-7166711a7/
 
 • ferramentas que tenho experiência: Visual Studio Code, Dev C++, Code Blocks IDE, Apache NetBeans IDE, Eclipse IDE for Java Developers, Sublime Text 3, PyCharm, Git, GitHub
 
@@ -24,10 +30,6 @@
 
 :small_orange_diamond: trabalhando no laboratório de Testes de Software da prefeitura de Presidente Prudente
 
-• linguagens de programação/programming languages:
-
-<img src="image/Me.png" width="750">
-
 ------------------------------------------------------------------------------------------
 
 ### EN-US
@@ -35,12 +37,6 @@
 • name: Pedro H. Z. Costa
 
 • age: 21 y.o.
-
-• e-mail: pedro_zago.costa@terra.com.br
-
-• website: https://zagopedro.github.io/react-site/
-
-• LinkedIn: https://www.linkedin.com/in/pedro-henrique-zago-costa-7166711a7/
 
 • tools I have experience: Visual Studio Code, Dev C++, Code Blocks IDE, Apache NetBeans IDE, Eclipse IDE for Java Developers, Sublime Text 3, PyCharm, Git, GitHub
 
@@ -53,3 +49,9 @@
 :small_orange_diamond: working in the Software Testing laboratory of the city hall of Presidente Prudente
 
 ------------------------------------------------------------------------------------------
+  
+<div>
+  <a href = "mailto:pedro_zago.costa@terra.com.br"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank"> </a>
+  <a href = "https://www.linkedin.com/in/pedro-henrique-zago-costa-7166711a7" target = "_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"> </a>
+  <a href = "https://zagopedro.github.io/react-site" target = "_blank"> <img src = "https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target = "_blank"> </a>
+ </div>
