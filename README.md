@@ -16,9 +16,9 @@
 
 ### PT-BR
   
-• nome: Pedro H. Z. Costa
+• nome: Pedro Zago
 
-• idade: 21 anos
+• idade: 22 anos
 
 • ferramentas que tenho experiência: Visual Studio Code, Dev C++, Code Blocks IDE, Apache NetBeans IDE, Eclipse IDE for Java Developers, Sublime Text 3, PyCharm, Git, GitHub
 
@@ -34,9 +34,9 @@
 
 ### EN-US
 
-• name: Pedro H. Z. Costa
+• name: Pedro Zago
 
-• age: 21 y.o.
+• age: 22 y.o.
 
 • tools I have experience: Visual Studio Code, Dev C++, Code Blocks IDE, Apache NetBeans IDE, Eclipse IDE for Java Developers, Sublime Text 3, PyCharm, Git, GitHub
 
