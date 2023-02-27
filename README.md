@@ -24,7 +24,7 @@
 
 • um pouco de Testes de Software: RobotFramework, Appium, Selenium, Android Studio
 
-:small_blue_diamond: cursando Ciência da Computação na Faculdade de Ciências e Tecnologia - UNESP
+:small_blue_diamond: graduado em Bacharelado em Ciência da Computação pela Faculdade de Ciências e Tecnologia - UNESP (27/02/2023)
 
 :small_orange_diamond: trabalhei na empresa júnior EJComp (01/04/2020 - 12/04/2021)
 
@@ -42,7 +42,7 @@
 
 • a little of Software Testing: RobotFramework, Appium, Selenium, Android Studio
 
-:small_blue_diamond: studying Computer Science in Faculdade de Ciências e Tecnologia - UNESP
+:small_blue_diamond: degree in Bachelor of Computer Science by Faculdade de Ciências e Tecnologia - UNESP (02/27/2023)
 
 :small_orange_diamond: worked as a member of the company EJComp (04/01/2020 - 04/12/2021)
 
